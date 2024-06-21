@@ -118,7 +118,6 @@ namespace ProductApi.Controllers
         {
             try
             {
-                // Cria uma requisição HTTP para verificar se a URL existe
                 HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
                 request.Method = "HEAD";
                 
