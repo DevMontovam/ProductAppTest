@@ -1,0 +1,32 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Lista de Produtos";
+}
+
+<h2>Lista de Produtos</h2>
+
+<input type="text" id="filterTextBox" placeholder="Filter products..." oninput="filterProducts()" />
+
+<div id="productList">
+    @foreach (var product in Model.Products)
+    {
+        <div class="product">
+            <img src="@product.ImageUrl" alt="@product.Name" class="product-image" />
+            <h3>@product.Name</h3>
+            <p>@product.Description</p>
+            <button onclick="showProductDetails(@product.Id)">Detalhes</button>
+        </div>
+    }
+</div>
+
+
+<div id="productModal" class="modal">
+    <div class="modal-content">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <img id="modalImage" src="" alt="" />
+        <h3 id="modalName"></h3>
+        <p id="modalDescription"></p>
+        <p id="modalPrice"></p>
+    </div>
+</div>

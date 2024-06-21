@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: ProductApi",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\ProductApi\\ProductApi.csproj",
+            "launchConfigurationId": "TargetFramework=;ProductApi"
+        }
+    ]
+}

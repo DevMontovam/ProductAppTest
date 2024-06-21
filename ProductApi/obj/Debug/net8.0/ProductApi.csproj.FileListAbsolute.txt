@@ -1,0 +1,66 @@
+d:\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\appsettings.Development.json
+d:\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\appsettings.json
+d:\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\ProductApi.exe
+d:\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\ProductApi.deps.json
+d:\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\ProductApi.runtimeconfig.json
+d:\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\ProductApi.dll
+d:\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\ProductApi.pdb
+d:\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+d:\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+d:\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.csproj.AssemblyReference.cache
+d:\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+d:\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfoInputs.cache
+d:\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfo.cs
+d:\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.csproj.CoreCompileInputs.cache
+d:\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cs
+d:\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cache
+d:\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\staticwebassets.build.json
+d:\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\staticwebassets.development.json
+d:\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.ProductApi.Microsoft.AspNetCore.StaticWebAssets.props
+d:\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductApi.props
+d:\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductApi.props
+d:\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductApi.props
+d:\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\staticwebassets.pack.json
+d:\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\scopedcss\bundle\ProductApi.styles.css
+d:\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.csproj.Up2Date
+d:\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.dll
+d:\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\refint\ProductApi.dll
+d:\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.pdb
+d:\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.genruntimeconfig.cache
+d:\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ref\ProductApi.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\appsettings.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\ProductApi.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\ProductApi.deps.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\ProductApi.runtimeconfig.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\ProductApi.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\ProductApi.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.ProductApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductApi.props
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductApi.props
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductApi.props
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\scopedcss\bundle\ProductApi.styles.css
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.csproj.Up2Date
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\refint\ProductApi.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ref\ProductApi.dll
