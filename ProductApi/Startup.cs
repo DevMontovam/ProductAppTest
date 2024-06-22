@@ -43,10 +43,6 @@ namespace ProductApi
 
             app.UseHttpsRedirection();
 
-            // Serve arquivos estáticos da raiz do projeto
-            app.UseStaticFiles();
-
-            // Serve arquivos estáticos da pasta "images"
             app.UseStaticFiles(new StaticFileOptions
             {
                 FileProvider = new PhysicalFileProvider(
