@@ -58,3 +58,34 @@ C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApp\o
 C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApp\obj\Debug\net8.0\ProductApp.pdb
 C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApp\obj\Debug\net8.0\ProductApp.genruntimeconfig.cache
 C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApp\obj\Debug\net8.0\ref\ProductApp.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\bin\Debug\net8.0\appsettings.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\bin\Debug\net8.0\ProductApp.staticwebassets.runtime.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\bin\Debug\net8.0\ProductApp.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\bin\Debug\net8.0\ProductApp.deps.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\bin\Debug\net8.0\ProductApp.runtimeconfig.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\bin\Debug\net8.0\ProductApp.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\bin\Debug\net8.0\ProductApp.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\ProductApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\ProductApp.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\ProductApp.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\ProductApp.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\ProductApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\ProductApp.RazorAssemblyInfo.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\ProductApp.RazorAssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\ProductApp.sourcelink.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\staticwebassets\msbuild.ProductApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductApp.props
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductApp.props
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductApp.props
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\scopedcss\bundle\ProductApp.styles.css
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\scopedcss\projectbundle\ProductApp.bundle.scp.css
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\ProductApp.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\refint\ProductApp.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\ProductApp.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\ProductApp.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApp\obj\Debug\net8.0\ref\ProductApp.dll

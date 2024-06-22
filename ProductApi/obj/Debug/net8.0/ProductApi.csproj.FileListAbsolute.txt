@@ -64,3 +64,37 @@ C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\o
 C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.pdb
 C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ProductApi.genruntimeconfig.cache
 C:\Users\guilh\OneDrive\Área de Trabalho\Programming\Teste RtxTech\ProductApi\obj\Debug\net8.0\ref\ProductApi.dll
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\bin\Debug\net8.0\appsettings.json
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\bin\Debug\net8.0\ProductApi.exe
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\bin\Debug\net8.0\ProductApi.deps.json
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\bin\Debug\net8.0\ProductApi.runtimeconfig.json
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\bin\Debug\net8.0\ProductApi.dll
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\bin\Debug\net8.0\ProductApi.pdb
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\ProductApi.csproj.AssemblyReference.cache
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfoInputs.cache
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfo.cs
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\ProductApi.csproj.CoreCompileInputs.cache
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\ProductApi.sourcelink.json
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.ProductApi.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductApi.props
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductApi.props
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductApi.props
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\scopedcss\bundle\ProductApi.styles.css
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\ProductApi.csproj.Up2Date
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\ProductApi.dll
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\refint\ProductApi.dll
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\ProductApi.pdb
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\ProductApi.genruntimeconfig.cache
+c:\Users\guilh\OneDrive\Área de Trabalho\Programming\ProductAppTest\ProductApi\obj\Debug\net8.0\ref\ProductApi.dll
